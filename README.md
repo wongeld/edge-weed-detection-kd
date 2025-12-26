@@ -79,7 +79,7 @@ Knowledge distillation is highly effective for *ultra-lightweight models* (YOLOv
 
 ## Code
 The full experimental pipeline is provided as a Jupyter Notebook:
-- `notebooks/weed_detection_kd.ipynb`
+- `notebooks/Weed_and_Crop_Detection_Model.ipynb`
 
 The notebook includes:
 - Data preprocessing
@@ -92,7 +92,7 @@ The notebook includes:
 ## Citation
 If you use or reference this work, please cite:
 
-> Wongel Daniel, *Enhancing Farm Efficiency: Autonomous Weed and Crop Detection using Knowledge Distillation*, 2024.
+> Wongel Daniel, *Enhancing Farm Efficiency: Autonomous Weed and Crop Detection using Knowledge Distillation*, 2025.
 
 ---
 
